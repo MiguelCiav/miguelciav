@@ -69,5 +69,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelCiav&show_icons=true&theme=tokyonight&hide_border=true" alt="Miguel's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=MiguelCiav&theme=tokyonight&hide_border=true" alt="Miguel's GitHub Streak" />
 </p>
